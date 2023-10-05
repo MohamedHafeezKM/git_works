@@ -1,7 +1,7 @@
 git clone remote path (Exact copy from github)
 
-git add -A  (All changes)(local system to staging area)
+git add -A  (All changes)( from local system to staging area)
 
-git commit -m "your message"  (staging arae to local repositry)
-git push origin main/master
+git commit -m "your message"  (from staging arae to local repositry)
+git push origin main/master   (from local repositry to remote repositry)
 
