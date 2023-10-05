@@ -1,0 +1,7 @@
+git clone remote path (Exact copy from github)
+
+git add -A  (All changes)(local system to staging area)
+
+git commit -m "your message"  (staging arae to local repositry)
+git push origin main/master
+
