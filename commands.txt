@@ -6,3 +6,6 @@ git commit -m "your message"  (from staging arae to local repositry)
 git push origin main/master   (from local repositry to remote repositry)
 git branch           (to check which all branches included in repositry)
 
+git status
+git branch
+
